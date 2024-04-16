@@ -1,0 +1,1 @@
+# wolfi-advisory-stats
